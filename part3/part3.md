@@ -1,3 +1,9 @@
+## Debugging
+ ![image](part3.1.png)
+ ![image](part3.2.png)
+ - The bug was that the input are strings and thus result was a string
+ - This is fixed by converting input to a number
+ ![image](part3fixed.png)
 ## Network Tab
  1. citylots
  2. part2.js
