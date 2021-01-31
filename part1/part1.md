@@ -25,7 +25,7 @@
     C. true using loose equals '2' is con
     D. false using strict equals 2 and '2' have different data types
     E. false true has the value 1 which is not equal to 2
-    F. true Boolean(2) evaluates to true which is the same type and value as true 
+    F. true Boolean(2) evaluates to true, as 2>0, which is the same type and value as true 
 16. "===" compares the data type of two variables and only returns true when the data types are the same, and "==" does not and would return true when values are the same
 17. "How are you" is printed 2 == true is false, 2 is true, thus the second block is executed
 18. part1-question18.js
